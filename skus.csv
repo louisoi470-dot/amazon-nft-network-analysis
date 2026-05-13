@@ -1,0 +1,251 @@
+sku_id,category,velocity,unit_cost_eur,weight_kg,demand_profile,supplier_id
+SKU_0001,Books,fast,35.54,1.86,flat,SUP_PL_001
+SKU_0002,Books,medium,7.2,0.84,winter_peak,SUP_PL_001
+SKU_0003,Electronics,medium,86.92,5.64,event_driven,SUP_DE_002
+SKU_0004,Grocery,medium,97.8,0.15,winter_peak,SUP_NL_001
+SKU_0005,Beauty,fast,28.58,6.13,flat,SUP_ES_002
+SKU_0006,Toys,fast,102.23,4.87,flat,SUP_IT_001
+SKU_0007,Books,slow,47.6,4.46,summer_peak,SUP_CN_001
+SKU_0008,Home & Kitchen,medium,8.84,1.9,summer_peak,SUP_ES_002
+SKU_0009,Home & Kitchen,slow,47.78,3.68,summer_peak,SUP_DE_001
+SKU_0010,Beauty,medium,81.58,5.64,flat,SUP_CN_001
+SKU_0011,Apparel,medium,32.02,3.75,summer_peak,SUP_PL_001
+SKU_0012,Home & Kitchen,medium,101.69,6.23,winter_peak,SUP_ES_001
+SKU_0013,Beauty,medium,11.21,7.31,summer_peak,SUP_DE_002
+SKU_0014,Grocery,medium,110.04,3.72,summer_peak,SUP_DE_001
+SKU_0015,Home & Kitchen,medium,66.29,6.0,event_driven,SUP_CN_001
+SKU_0016,Toys,medium,119.69,1.19,event_driven,SUP_ES_002
+SKU_0017,Electronics,slow,21.31,1.36,event_driven,SUP_CN_001
+SKU_0018,Books,medium,72.92,3.8,summer_peak,SUP_PL_001
+SKU_0019,Electronics,medium,16.85,7.09,summer_peak,SUP_FR_002
+SKU_0020,Books,fast,21.93,0.13,summer_peak,SUP_PL_001
+SKU_0021,Apparel,medium,15.9,5.04,winter_peak,SUP_DE_001
+SKU_0022,Beauty,slow,66.34,6.25,flat,SUP_CN_001
+SKU_0023,Beauty,medium,16.53,2.97,summer_peak,SUP_DE_002
+SKU_0024,Electronics,fast,69.6,0.72,event_driven,SUP_ES_002
+SKU_0025,Apparel,fast,58.87,4.44,summer_peak,SUP_PL_001
+SKU_0026,Toys,slow,111.72,6.07,winter_peak,SUP_FR_001
+SKU_0027,Toys,slow,79.21,3.56,event_driven,SUP_ES_002
+SKU_0028,Home & Kitchen,fast,42.89,4.75,winter_peak,SUP_CN_001
+SKU_0029,Home & Kitchen,fast,85.96,0.57,flat,SUP_ES_001
+SKU_0030,Beauty,fast,31.23,5.38,winter_peak,SUP_PL_001
+SKU_0031,Apparel,medium,106.3,4.65,winter_peak,SUP_IT_001
+SKU_0032,Toys,fast,14.79,3.51,event_driven,SUP_NL_001
+SKU_0033,Grocery,slow,9.81,5.26,flat,SUP_ES_001
+SKU_0034,Toys,medium,96.77,0.96,winter_peak,SUP_DE_002
+SKU_0035,Grocery,fast,24.88,3.75,flat,SUP_IT_001
+SKU_0036,Books,fast,119.92,6.7,flat,SUP_DE_002
+SKU_0037,Apparel,medium,59.58,6.93,flat,SUP_DE_001
+SKU_0038,Toys,fast,48.98,7.42,event_driven,SUP_FR_001
+SKU_0039,Toys,medium,88.6,6.29,event_driven,SUP_DE_001
+SKU_0040,Home & Kitchen,fast,116.35,4.68,flat,SUP_FR_002
+SKU_0041,Electronics,fast,59.05,7.36,winter_peak,SUP_ES_001
+SKU_0042,Books,slow,11.48,0.64,winter_peak,SUP_NL_001
+SKU_0043,Books,slow,69.87,4.67,flat,SUP_CN_001
+SKU_0044,Books,medium,71.5,4.23,summer_peak,SUP_DE_002
+SKU_0045,Beauty,fast,49.61,5.41,summer_peak,SUP_IT_001
+SKU_0046,Beauty,slow,112.51,0.17,flat,SUP_ES_002
+SKU_0047,Home & Kitchen,medium,18.93,2.86,flat,SUP_DE_002
+SKU_0048,Beauty,fast,54.55,4.39,summer_peak,SUP_CN_001
+SKU_0049,Electronics,medium,68.11,7.46,flat,SUP_DE_001
+SKU_0050,Sports,fast,15.97,4.47,summer_peak,SUP_FR_001
+SKU_0051,Home & Kitchen,medium,27.22,5.11,summer_peak,SUP_PL_001
+SKU_0052,Grocery,fast,109.3,0.5,event_driven,SUP_FR_001
+SKU_0053,Electronics,fast,93.34,5.13,summer_peak,SUP_DE_001
+SKU_0054,Grocery,medium,53.33,0.18,flat,SUP_DE_001
+SKU_0055,Electronics,slow,71.36,1.27,winter_peak,SUP_ES_001
+SKU_0056,Sports,medium,112.2,7.78,flat,SUP_FR_002
+SKU_0057,Home & Kitchen,medium,81.2,2.89,event_driven,SUP_CN_001
+SKU_0058,Apparel,slow,31.08,1.38,winter_peak,SUP_NL_001
+SKU_0059,Electronics,fast,111.2,6.28,event_driven,SUP_DE_002
+SKU_0060,Sports,fast,85.2,3.12,flat,SUP_IT_001
+SKU_0061,Home & Kitchen,fast,110.5,2.86,winter_peak,SUP_DE_002
+SKU_0062,Electronics,medium,49.92,2.3,flat,SUP_FR_001
+SKU_0063,Beauty,medium,50.06,7.85,summer_peak,SUP_ES_001
+SKU_0064,Books,slow,33.93,4.69,summer_peak,SUP_ES_001
+SKU_0065,Books,medium,43.77,6.31,event_driven,SUP_CN_001
+SKU_0066,Books,medium,70.67,2.11,event_driven,SUP_ES_001
+SKU_0067,Home & Kitchen,medium,11.65,5.35,summer_peak,SUP_CN_001
+SKU_0068,Beauty,medium,18.02,7.21,summer_peak,SUP_NL_001
+SKU_0069,Beauty,medium,37.94,1.11,event_driven,SUP_NL_001
+SKU_0070,Apparel,medium,38.56,4.43,flat,SUP_FR_001
+SKU_0071,Sports,fast,95.04,4.89,summer_peak,SUP_IT_001
+SKU_0072,Grocery,medium,28.4,3.84,winter_peak,SUP_ES_002
+SKU_0073,Sports,medium,77.24,2.75,winter_peak,SUP_FR_001
+SKU_0074,Home & Kitchen,slow,20.67,0.47,event_driven,SUP_CN_001
+SKU_0075,Books,medium,106.73,4.65,event_driven,SUP_IT_001
+SKU_0076,Toys,fast,79.93,0.14,flat,SUP_NL_001
+SKU_0077,Home & Kitchen,fast,115.1,4.19,flat,SUP_PL_001
+SKU_0078,Home & Kitchen,slow,17.64,1.15,event_driven,SUP_PL_001
+SKU_0079,Beauty,slow,107.35,4.94,event_driven,SUP_PL_001
+SKU_0080,Grocery,slow,90.14,3.85,summer_peak,SUP_DE_002
+SKU_0081,Sports,slow,64.23,5.05,summer_peak,SUP_IT_001
+SKU_0082,Books,medium,30.82,2.75,flat,SUP_DE_001
+SKU_0083,Apparel,fast,84.35,5.68,flat,SUP_NL_001
+SKU_0084,Toys,medium,57.78,0.59,event_driven,SUP_NL_001
+SKU_0085,Electronics,slow,92.69,3.11,flat,SUP_FR_002
+SKU_0086,Sports,slow,102.93,7.63,event_driven,SUP_PL_001
+SKU_0087,Home & Kitchen,medium,35.3,3.94,event_driven,SUP_FR_002
+SKU_0088,Toys,medium,101.42,7.36,flat,SUP_NL_001
+SKU_0089,Electronics,fast,53.43,6.95,winter_peak,SUP_ES_001
+SKU_0090,Sports,medium,28.16,2.68,event_driven,SUP_FR_001
+SKU_0091,Toys,fast,13.04,0.25,flat,SUP_FR_002
+SKU_0092,Home & Kitchen,medium,94.51,5.25,flat,SUP_DE_002
+SKU_0093,Home & Kitchen,slow,75.89,1.98,event_driven,SUP_ES_002
+SKU_0094,Home & Kitchen,medium,33.35,3.01,flat,SUP_DE_001
+SKU_0095,Sports,fast,6.49,2.56,event_driven,SUP_NL_001
+SKU_0096,Home & Kitchen,fast,83.96,5.06,flat,SUP_FR_001
+SKU_0097,Books,slow,69.43,0.42,event_driven,SUP_FR_002
+SKU_0098,Books,medium,43.25,6.81,event_driven,SUP_ES_002
+SKU_0099,Toys,slow,77.55,6.65,winter_peak,SUP_NL_001
+SKU_0100,Apparel,medium,115.98,2.23,event_driven,SUP_IT_001
+SKU_0101,Toys,slow,72.52,2.65,winter_peak,SUP_ES_002
+SKU_0102,Sports,slow,31.91,3.77,event_driven,SUP_FR_002
+SKU_0103,Electronics,medium,41.36,3.95,summer_peak,SUP_FR_001
+SKU_0104,Beauty,fast,72.95,7.05,flat,SUP_PL_001
+SKU_0105,Home & Kitchen,fast,87.39,3.96,winter_peak,SUP_IT_001
+SKU_0106,Grocery,medium,5.51,2.42,event_driven,SUP_DE_002
+SKU_0107,Sports,medium,46.49,4.47,summer_peak,SUP_NL_001
+SKU_0108,Beauty,medium,56.36,2.52,winter_peak,SUP_ES_002
+SKU_0109,Home & Kitchen,medium,90.05,7.61,winter_peak,SUP_DE_002
+SKU_0110,Home & Kitchen,medium,35.71,4.76,summer_peak,SUP_ES_002
+SKU_0111,Home & Kitchen,fast,45.54,2.49,winter_peak,SUP_FR_001
+SKU_0112,Electronics,slow,67.97,5.61,winter_peak,SUP_IT_001
+SKU_0113,Books,slow,70.38,3.81,event_driven,SUP_FR_002
+SKU_0114,Apparel,slow,32.91,6.91,flat,SUP_ES_002
+SKU_0115,Toys,medium,70.72,5.52,winter_peak,SUP_DE_001
+SKU_0116,Sports,fast,32.41,4.51,event_driven,SUP_CN_001
+SKU_0117,Home & Kitchen,slow,47.81,7.28,summer_peak,SUP_CN_001
+SKU_0118,Toys,medium,75.85,4.92,flat,SUP_DE_002
+SKU_0119,Home & Kitchen,fast,12.96,1.99,flat,SUP_DE_001
+SKU_0120,Electronics,medium,83.81,3.81,flat,SUP_DE_002
+SKU_0121,Sports,medium,85.4,3.69,winter_peak,SUP_FR_001
+SKU_0122,Home & Kitchen,medium,66.94,5.22,summer_peak,SUP_DE_001
+SKU_0123,Books,fast,95.84,4.8,summer_peak,SUP_IT_001
+SKU_0124,Books,medium,38.93,3.28,summer_peak,SUP_PL_001
+SKU_0125,Grocery,medium,73.17,7.13,summer_peak,SUP_CN_001
+SKU_0126,Sports,fast,30.17,5.43,flat,SUP_FR_001
+SKU_0127,Electronics,slow,23.91,4.2,event_driven,SUP_FR_001
+SKU_0128,Apparel,slow,54.28,6.53,flat,SUP_IT_001
+SKU_0129,Beauty,medium,40.9,0.93,winter_peak,SUP_FR_002
+SKU_0130,Toys,medium,37.08,7.57,flat,SUP_IT_001
+SKU_0131,Books,medium,41.16,7.76,event_driven,SUP_PL_001
+SKU_0132,Electronics,medium,66.71,3.36,winter_peak,SUP_PL_001
+SKU_0133,Beauty,medium,61.57,3.59,flat,SUP_DE_002
+SKU_0134,Sports,medium,111.57,3.56,event_driven,SUP_ES_002
+SKU_0135,Electronics,slow,74.43,1.99,winter_peak,SUP_FR_001
+SKU_0136,Electronics,medium,14.36,7.94,flat,SUP_IT_001
+SKU_0137,Books,medium,21.44,7.47,summer_peak,SUP_PL_001
+SKU_0138,Sports,medium,59.71,3.83,event_driven,SUP_PL_001
+SKU_0139,Apparel,medium,110.9,4.12,winter_peak,SUP_ES_002
+SKU_0140,Sports,slow,103.04,2.79,summer_peak,SUP_ES_001
+SKU_0141,Sports,medium,101.07,4.68,event_driven,SUP_DE_001
+SKU_0142,Grocery,medium,43.71,4.46,event_driven,SUP_IT_001
+SKU_0143,Beauty,slow,117.76,1.99,event_driven,SUP_DE_002
+SKU_0144,Toys,fast,90.26,5.67,event_driven,SUP_NL_001
+SKU_0145,Apparel,medium,7.81,4.07,summer_peak,SUP_ES_002
+SKU_0146,Grocery,fast,109.57,0.22,winter_peak,SUP_NL_001
+SKU_0147,Apparel,fast,94.55,2.19,event_driven,SUP_ES_002
+SKU_0148,Beauty,slow,103.61,3.1,summer_peak,SUP_IT_001
+SKU_0149,Electronics,medium,30.85,5.51,summer_peak,SUP_DE_002
+SKU_0150,Books,medium,14.97,5.11,flat,SUP_IT_001
+SKU_0151,Apparel,medium,108.75,0.46,flat,SUP_FR_001
+SKU_0152,Beauty,medium,20.46,4.3,winter_peak,SUP_DE_001
+SKU_0153,Apparel,fast,104.95,5.0,winter_peak,SUP_IT_001
+SKU_0154,Apparel,fast,77.82,3.73,flat,SUP_IT_001
+SKU_0155,Sports,medium,21.9,3.59,summer_peak,SUP_CN_001
+SKU_0156,Sports,medium,52.93,2.08,summer_peak,SUP_DE_002
+SKU_0157,Toys,slow,15.93,3.11,summer_peak,SUP_CN_001
+SKU_0158,Sports,slow,37.89,7.83,event_driven,SUP_FR_001
+SKU_0159,Electronics,medium,83.4,5.98,flat,SUP_CN_001
+SKU_0160,Grocery,slow,108.69,6.23,winter_peak,SUP_CN_001
+SKU_0161,Beauty,fast,25.65,2.08,winter_peak,SUP_ES_002
+SKU_0162,Electronics,medium,54.86,4.68,winter_peak,SUP_ES_002
+SKU_0163,Sports,medium,51.91,1.69,summer_peak,SUP_PL_001
+SKU_0164,Sports,slow,33.44,6.62,event_driven,SUP_FR_001
+SKU_0165,Beauty,slow,58.06,0.69,winter_peak,SUP_NL_001
+SKU_0166,Beauty,fast,49.47,2.19,flat,SUP_IT_001
+SKU_0167,Beauty,medium,81.83,4.72,summer_peak,SUP_ES_002
+SKU_0168,Home & Kitchen,medium,75.68,7.55,summer_peak,SUP_CN_001
+SKU_0169,Home & Kitchen,medium,77.52,3.77,summer_peak,SUP_NL_001
+SKU_0170,Books,fast,113.74,2.5,event_driven,SUP_ES_002
+SKU_0171,Books,fast,66.12,3.17,summer_peak,SUP_PL_001
+SKU_0172,Toys,medium,88.15,7.09,flat,SUP_IT_001
+SKU_0173,Toys,slow,36.09,5.55,winter_peak,SUP_IT_001
+SKU_0174,Grocery,slow,103.16,0.88,summer_peak,SUP_PL_001
+SKU_0175,Beauty,fast,35.64,7.75,event_driven,SUP_ES_002
+SKU_0176,Home & Kitchen,medium,73.07,0.27,summer_peak,SUP_DE_002
+SKU_0177,Apparel,slow,27.41,6.66,winter_peak,SUP_CN_001
+SKU_0178,Home & Kitchen,slow,30.64,6.22,flat,SUP_FR_001
+SKU_0179,Apparel,slow,66.44,6.41,flat,SUP_ES_001
+SKU_0180,Apparel,fast,95.53,1.98,summer_peak,SUP_ES_001
+SKU_0181,Apparel,fast,18.27,3.43,flat,SUP_ES_002
+SKU_0182,Grocery,medium,45.68,4.79,event_driven,SUP_PL_001
+SKU_0183,Home & Kitchen,slow,8.55,6.29,summer_peak,SUP_IT_001
+SKU_0184,Electronics,fast,59.3,3.27,flat,SUP_IT_001
+SKU_0185,Grocery,fast,12.91,4.91,flat,SUP_DE_001
+SKU_0186,Sports,medium,71.69,5.73,event_driven,SUP_CN_001
+SKU_0187,Sports,medium,74.03,0.88,flat,SUP_PL_001
+SKU_0188,Home & Kitchen,medium,106.96,3.37,event_driven,SUP_NL_001
+SKU_0189,Toys,medium,39.91,2.57,summer_peak,SUP_FR_002
+SKU_0190,Apparel,medium,58.75,0.82,flat,SUP_ES_002
+SKU_0191,Toys,fast,89.57,6.51,flat,SUP_CN_001
+SKU_0192,Beauty,medium,51.36,7.0,event_driven,SUP_ES_001
+SKU_0193,Sports,medium,44.47,4.67,winter_peak,SUP_DE_001
+SKU_0194,Grocery,fast,16.11,6.78,summer_peak,SUP_ES_002
+SKU_0195,Sports,medium,97.54,6.78,flat,SUP_CN_001
+SKU_0196,Sports,fast,35.34,6.12,summer_peak,SUP_FR_002
+SKU_0197,Electronics,fast,20.19,5.29,flat,SUP_DE_001
+SKU_0198,Electronics,fast,65.3,3.07,event_driven,SUP_FR_002
+SKU_0199,Apparel,medium,87.57,6.24,flat,SUP_ES_001
+SKU_0200,Apparel,fast,75.48,5.42,summer_peak,SUP_IT_001
+SKU_0201,Toys,medium,55.0,2.26,flat,SUP_FR_002
+SKU_0202,Toys,fast,82.51,4.79,summer_peak,SUP_ES_001
+SKU_0203,Home & Kitchen,medium,73.32,0.16,summer_peak,SUP_DE_002
+SKU_0204,Apparel,slow,37.22,1.05,event_driven,SUP_NL_001
+SKU_0205,Apparel,fast,65.55,1.92,summer_peak,SUP_ES_002
+SKU_0206,Toys,slow,8.43,0.25,flat,SUP_FR_002
+SKU_0207,Toys,medium,86.16,3.4,flat,SUP_NL_001
+SKU_0208,Electronics,slow,23.52,7.59,event_driven,SUP_FR_002
+SKU_0209,Books,medium,15.83,3.54,event_driven,SUP_PL_001
+SKU_0210,Books,medium,39.65,2.78,summer_peak,SUP_DE_001
+SKU_0211,Books,medium,16.78,4.13,summer_peak,SUP_FR_002
+SKU_0212,Apparel,fast,20.56,1.66,winter_peak,SUP_ES_002
+SKU_0213,Apparel,slow,76.66,3.77,event_driven,SUP_CN_001
+SKU_0214,Beauty,slow,76.57,1.29,flat,SUP_IT_001
+SKU_0215,Grocery,medium,96.27,4.77,summer_peak,SUP_PL_001
+SKU_0216,Books,medium,56.15,0.55,summer_peak,SUP_ES_002
+SKU_0217,Books,medium,62.57,3.76,flat,SUP_IT_001
+SKU_0218,Home & Kitchen,medium,58.91,1.29,flat,SUP_IT_001
+SKU_0219,Books,slow,101.05,7.86,flat,SUP_PL_001
+SKU_0220,Apparel,fast,85.94,7.93,winter_peak,SUP_FR_002
+SKU_0221,Beauty,slow,48.63,6.22,flat,SUP_FR_002
+SKU_0222,Books,medium,68.5,3.15,summer_peak,SUP_CN_001
+SKU_0223,Apparel,medium,71.39,1.22,summer_peak,SUP_FR_001
+SKU_0224,Toys,fast,86.08,0.77,event_driven,SUP_FR_002
+SKU_0225,Apparel,medium,100.07,5.94,flat,SUP_NL_001
+SKU_0226,Beauty,fast,39.48,7.61,summer_peak,SUP_IT_001
+SKU_0227,Home & Kitchen,fast,19.53,0.71,flat,SUP_PL_001
+SKU_0228,Electronics,medium,105.6,4.98,event_driven,SUP_DE_001
+SKU_0229,Apparel,fast,84.22,5.04,winter_peak,SUP_IT_001
+SKU_0230,Electronics,medium,82.3,1.98,event_driven,SUP_CN_001
+SKU_0231,Sports,slow,94.81,1.95,winter_peak,SUP_FR_001
+SKU_0232,Grocery,slow,26.1,5.46,event_driven,SUP_IT_001
+SKU_0233,Sports,slow,62.09,3.41,winter_peak,SUP_DE_002
+SKU_0234,Apparel,slow,9.58,3.9,summer_peak,SUP_PL_001
+SKU_0235,Books,medium,63.6,1.08,flat,SUP_DE_001
+SKU_0236,Sports,medium,63.31,6.67,flat,SUP_DE_002
+SKU_0237,Grocery,slow,111.9,3.38,event_driven,SUP_PL_001
+SKU_0238,Beauty,fast,119.36,3.06,flat,SUP_FR_002
+SKU_0239,Books,slow,79.22,6.35,winter_peak,SUP_ES_001
+SKU_0240,Sports,slow,58.54,6.67,event_driven,SUP_IT_001
+SKU_0241,Electronics,slow,5.71,1.8,winter_peak,SUP_PL_001
+SKU_0242,Toys,fast,37.06,2.48,flat,SUP_DE_002
+SKU_0243,Toys,medium,76.06,0.6,event_driven,SUP_CN_001
+SKU_0244,Electronics,medium,70.49,5.78,summer_peak,SUP_NL_001
+SKU_0245,Electronics,medium,31.53,3.39,flat,SUP_PL_001
+SKU_0246,Beauty,fast,64.79,4.11,flat,SUP_NL_001
+SKU_0247,Grocery,fast,48.57,3.05,flat,SUP_FR_002
+SKU_0248,Books,medium,88.89,5.06,summer_peak,SUP_DE_001
+SKU_0249,Electronics,medium,42.94,5.18,event_driven,SUP_IT_001
+SKU_0250,Apparel,slow,10.85,6.23,event_driven,SUP_ES_001

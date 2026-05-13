@@ -1,0 +1,11 @@
+supplier_id,supplier_name,location,lead_time_days,reliability_score
+SUP_ES_001,Inditex Logistics,"Barcelona, ES",5,0.95
+SUP_ES_002,Mercadona Supply,"Valencia, ES",6,0.92
+SUP_DE_001,DHL Supply Chain,"Frankfurt, DE",4,0.97
+SUP_DE_002,BMW Parts Co,"Munich, DE",7,0.88
+SUP_FR_001,Carrefour Distrib,"Lyon, FR",5,0.93
+SUP_FR_002,LVMH Logistics,"Paris, FR",8,0.91
+SUP_NL_001,Philips Supply,"Amsterdam, NL",3,0.96
+SUP_IT_001,Luxottica Dist,"Milan, IT",6,0.89
+SUP_PL_001,Amazon Vendor PL,"Warsaw, PL",5,0.94
+SUP_CN_001,Alibaba Logistics,"Shanghai, CN",21,0.87

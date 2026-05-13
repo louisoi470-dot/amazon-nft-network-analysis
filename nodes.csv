@@ -1,0 +1,25 @@
+node_id,node_type,location,capacity_units,primary_supplier_id
+1DC_MAD,1DC,"Madrid, ES",50000,SUP_ES_001
+1DC_BCN,1DC,"Barcelona, ES",45000,SUP_ES_002
+1DC_CDG,1DC,"Paris, FR",60000,SUP_FR_001
+1DC_AMS,1DC,"Amsterdam, NL",55000,SUP_NL_001
+1DC_MUC,1DC,"Munich, DE",48000,SUP_DE_001
+RDC_IBE,RDC,"Zaragoza, ES",80000,SUP_ES_001
+RDC_FRA,RDC,"Frankfurt, DE",90000,SUP_DE_002
+RDC_LYS,RDC,"Lyon, FR",75000,SUP_FR_002
+IXD_BCN,IXD,"Barcelona, ES",20000,
+IXD_MAD,IXD,"Madrid, ES",18000,
+IXD_PAR,IXD,"Paris, FR",22000,
+IXD_BER,IXD,"Berlin, DE",19000,
+FC_BCN1,FC,"Barcelona, ES",35000,
+FC_BCN2,FC,"Sabadell, ES",30000,
+FC_MAD1,FC,"Madrid, ES",40000,
+FC_MAD2,FC,"Getafe, ES",32000,
+FC_PAR1,FC,"Paris, FR",45000,
+FC_PAR2,FC,"Versailles, FR",28000,
+FC_BER1,FC,"Berlin, DE",38000,
+FC_MUN1,FC,"Munich, DE",33000,
+NX_BCN,NEXUS,"Barcelona, ES",8000,
+NX_MAD,NEXUS,"Madrid, ES",9000,
+NX_PAR,NEXUS,"Paris, FR",10000,
+NX_BER,NEXUS,"Berlin, DE",8500,
